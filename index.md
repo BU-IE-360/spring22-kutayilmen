@@ -9,7 +9,7 @@
 
 ### Homework 2
 
-  [Here](HW2/Kutay İlmen Aytekin HW2.html) is my HW2 .html file.
+[Here](HW2/Kutay İlmen Aytekin HW2.html) is my HW2 .html file.
 
-  [Here](HW2/Kutay İlmen Aytekin HW2.ipynb) is the .ipynb file.
+[Here](HW2/Kutay İlmen Aytekin HW2.ipynb) is the .ipynb file.
 
