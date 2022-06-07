@@ -679,6 +679,6 @@ Amusan J. A. & Otokunefor E.B.(2019) The Effect of Cloud on the Output Performan
 <!-- Links -->
 [humidity]: https://www.researchgate.net/publication/309104096_Effect_of_humidity_on_the_efficiency_of_solar_cell_photovoltaic "Effect of Humidity on the efficiency of solar cell photovoltaic"
 [cloud]: https://ijesc.org/upload/019a8ade10f861b75fa36c98a02d98b9.The%20Effect%20of%20Cloud%20on%20the%20Output%20Performance%20of%20a%20Solar%20Module.pdf "The effect of cloud on the output performance of a solar module"
-[rmd]: https://github.com/BU-IE-360/spring22-FatihMehmetYilmaz/blob/gh-pages/Files/Project/IE360-Project%20Report-Group8.Rmd 
-[script]: https://github.com/BU-IE-360/spring22-FatihMehmetYilmaz/blob/gh-pages/Files/Project/ProjectGroup8.R
-[data]: https://github.com/BU-IE-360/spring22-FatihMehmetYilmaz/blob/gh-pages/Files/Project/2022-06-07_production_weather.zip
+[rmd]: https://github.com/BU-IE-360/spring22-kutayilmenaytekin/blob/gh-pages/Project/IE360-Project-Report-Group8.Rmd 
+[script]: https://github.com/BU-IE-360/spring22-kutayilmenaytekin/blob/gh-pages/Project/ProjectGroup8.R
+[data]: https://github.com/BU-IE-360/spring22-kutayilmenaytekin/blob/gh-pages/Project/2022-06-07_production_weather.zip
